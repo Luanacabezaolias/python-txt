@@ -1,0 +1,4 @@
+esse texto será escrito no arquivo
+essa outra linha também será escrita no arquivo
+Luana18
+Nome: Luana - Idade:18
