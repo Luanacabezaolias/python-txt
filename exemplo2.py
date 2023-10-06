@@ -2,7 +2,7 @@
 
 arquivo = open('numeros.txt','r')
 
-nomeros = []
+numeros = []
 
 
 #percorre o arquivo linha por linha 
